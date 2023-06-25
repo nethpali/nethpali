@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nethpali Jayaweera</h1>
 <h3 align="center">Software Engineering Student</h3>
-<img src="https://img.freepik.com/free-vector/coding-round-composition_1284-40752.jpg?t=st=1687595586~exp=1687596186~hmac=10bf710fbd97359b3a9235704bd117deae9a27f9fc697d82e88aa73f81d782e8=">
+<img src="https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=1380&t=st=1687657329~exp=1687657929~hmac=fec1efa7b89e085c3a3ffc36d7b01dcdfa30cac56c54c981875373dbe964130a">
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/nethpali/My-Portfolio.git)
 
